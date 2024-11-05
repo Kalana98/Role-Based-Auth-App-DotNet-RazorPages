@@ -66,8 +66,4 @@ AuthWebApp is a role-based authentication web application built with .NET Identi
 ### Image 4
 ![Screenshot 2024-11-05 202138](https://github.com/user-attachments/assets/3d45e66a-a8f5-4e15-bc1a-648e01a7e320)
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request or open an Issue.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
